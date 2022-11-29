@@ -1,0 +1,361 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background: url('../img/BG.jpg') no-repeat;
+    background-color: #02101b!important;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+}
+
+input:focus,button:focus,select:focus,option:focus {
+    outline: none;
+}
+
+select { color: #ccc!important; }
+option { color: #000; }
+
+/* CloudFire Icon hide */
+
+cloudflare-app[app="hardenize"][data-position="center"] {
+    position: absolute;
+    margin: auto;
+    display: none;
+}
+
+.plava_color {
+    color: #00a0ff;
+}
+
+/* CloudFire Icon hide */
+
+#loading {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,0.7);
+}
+.loading_img {
+  margin-top: 300px;
+}
+
+.smile-img-icon {
+    height: auto;
+    width: 15px;
+}
+
+
+.clear {
+    clear:both!important;
+}
+
+.right {
+    float: right!important;
+}
+
+.left {
+    float: left!important;
+}
+
+/* HEADER */
+
+header {
+    width: 100%;
+    height: 60px;
+    background: rgba(0,0,0,0.3);
+}
+
+#top_bar {
+    padding: 15px 30px;
+}
+
+.top_bar_vesti li {
+    width: 100px;
+    padding: 5px;
+    background: #0e85be;
+    display: block;
+    text-align: center;
+}
+
+.top_bar_vesti a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 11px;
+}
+
+.top_bar_vesti a:hover {
+    color: #cbd9e0;
+    text-decoration: none;
+}
+
+.top_bar_info {
+    padding: 0px 160px;
+    margin: -22px -30px;
+    display: block;
+}
+
+.top_bar_info p {
+    color: #fff;
+    font-size: 11px;
+}
+
+.top_bar_flag {
+    margin-top: -12px;
+}
+
+.top_bar_flag li {
+    display: inline-block;
+    padding-left: 5px;
+}
+
+/* SECTION */
+
+section {
+    width: 80%;
+    margin: 50px auto;
+}
+
+section li {
+    display: inline-block;
+}
+
+.login_form input {
+    background: url(../img/icon/pass-input.png);
+    border: 0;
+    color: #fff;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 169px;
+}
+
+.prof_inf_hdr {
+    border: 1px solid #076ba6;
+    background: #061721;
+    padding: 10px;
+    width: 330px;
+    border-radius: 5px;
+}
+
+#loginBox li {
+    display: inline-block;
+}
+
+#loginBox a {
+    border: 0;
+    color: #fff;
+    background: #053a49;
+    padding: 5px 24px;
+    cursor: pointer;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#loginBox a:hover {
+    border: 0;
+    color: #cbd9e0;
+    background: #053a49;
+    padding: 5px 24px;
+    cursor: pointer;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#loginBox button {
+    border: 0;
+    color: #fff;
+    background: #033037;
+    padding: 5px 20px;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.containerr {
+    width: 1320px;
+    margin: 0 auto;
+}
+
+.container {
+    width: 1320px;
+    margin: 0 auto;
+}
+
+
+/* STATISTIKA  I SLAJDER */
+
+#slider_kevia {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.slider_kevia_img {
+    position: relative;
+    z-index: 999999;
+}
+
+.slider_kevia_button {
+    background: #010e16;
+    margin-left: 500px;
+    position: absolute;
+    width: 300px;
+    height: 280px;
+}
+
+.slider_kevia_button2 {
+    background: #010e16;
+    margin-left: 500px;
+    position: absolute;
+    width: 300px;
+    height: 280px;
+}
+
+.sl_button_li li {
+    display: inline-block;
+    padding: 5px;
+}
+
+.sl_button_li li a {
+    text-decoration: none;
+    color: #bbb;
+
+    cursor: pointer;
+}
+
+.sl_button_li_act li a {
+    color: #00a0ff;
+}
+
+.sl_button_li li a:hover {
+    color: #fff;
+}
+
+.slider_button1 {
+    margin-left: 40px;
+}
+
+.slider_button1 li a p {
+    margin-left: 20px;
+    margin-top: 5px;
+
+    font-size: 10px;
+}
+
+.slider_button2 {
+    margin-left: 50px;
+}
+
+.slider_button2 li a p {
+    margin-left: 20px;
+    margin-top: 5px;
+
+    font-size: 10px;
+}
+
+.slider_button3 {
+    margin-left: 60px;
+}
+
+.slider_button3 li a p {
+    margin-left: 20px;
+    margin-top: 5px;
+
+    font-size: 10px;
+}
+
+.slider_button4 {
+    margin-left: 70px;
+}
+
+.slider_button4 li a p {
+    margin-left: 20px;
+    margin-top: 5px;
+
+    font-size: 10px;
+}
+
+.slider_kevia_str_dwn {
+    /*background: rgba(0,0,0,0.7);*/
+    height: 30px;
+    width: 550px;
+    position: absolute;
+    margin-top: 250px;
+    z-index: 9999999;
+}
+
+.slider_kevia_str_hr {
+    margin-top: -6px;
+}
+
+.slider_str_dwn_li li {
+    display: block;
+    float: left;
+    padding: 10px;
+}
+
+.slider_str_dwn_li a {
+    cursor: pointer;
+}
+
+/* GH STATISTIKA */
+
+#gh_stats {
+    position: relative;
+    width: 80%;
+    margin: 0px auto;
+}
+
+.gh_stats {
+    float: right;
+    margin-right: 0px;
+}
+
+.gh_stats_header {
+    width: 240px;
+    height: 30px;
+    background: url('/assets/img/icon/statistika-overlay.png');
+}
+
+.gh_stats_header p {
+    font-size: 12px;
+    color: #fff;
+    padding: 7px;
+}
+
+.gh_stats_content {
+    background: url('/assets/img/icon/statistika-bacground.png');
+    width: 100%;
+    height: 250px;
+}
+
+.gh_stats_text1 {
+    position: absolute;
+    margin-left: 97px;
+    margin-top: -69px;
+}
+
+.gh_stats_text1 p {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.gh_stats_text2 {
+    position: absolute;
+    margin-left: 115px;
+    margin-top: -78px;
+}
+
+.gh_stats_text2 p {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+}

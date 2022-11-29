@@ -1,0 +1,6 @@
+[22-Feb-2020 15:37:26 UTC] PHP Warning:  include(./inc/libs/mysql2mysqli.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 4
+[22-Feb-2020 15:37:26 UTC] PHP Warning:  include(./inc/libs/mysql2mysqli.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 4
+[22-Feb-2020 15:37:26 UTC] PHP Warning:  include(): Failed opening './inc/libs/mysql2mysqli.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 4
+[22-Feb-2020 15:37:26 UTC] PHP Warning:  include_once(jezik/jezik.en.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/jezik/index.php on line 37
+[22-Feb-2020 15:37:26 UTC] PHP Warning:  include_once(): Failed opening 'jezik/jezik.en.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/emaxrsmh/egame.e-max.rs/jezik/index.php on line 37
+[22-Feb-2020 15:37:26 UTC] PHP Notice:  Undefined index: mod in /home/emaxrsmh/egame.e-max.rs/fnc/buy.php on line 57

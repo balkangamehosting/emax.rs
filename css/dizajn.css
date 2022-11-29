@@ -1,0 +1,328 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	border: 0;
+	font-family: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+
+a img {
+	border: 0;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+/************/
+/*** Basics ***/
+/************/
+
+html{
+	overflow: -moz-scrollbars-vertical;
+}
+
+body{
+	background: url(http://i.pics.rs/FCuBF.png) top center;
+	color: #999b9d;
+	font-size: 16px;
+	line-height: 140%;
+}
+
+
+a{
+	color: #9a9a9a;
+	text-decoration: none;
+}
+
+h2 a{
+	color: #97b7d1;
+	font-size: 32px;
+}
+
+h2{
+	margin: 0 0 5px 0;
+	font-size: 32px;
+	line-height: 36px;
+	color: #97b7d1;
+}
+
+h3{
+	color: #97b7d1;
+	font-size: 20px;
+	margin-bottom: 5px 0;
+}
+
+h3 a{
+	color: #97b7d1;
+	margin-bottom: 5px 0;
+}
+
+h4{
+	color: #97b7d1;
+	font-size: 20px;
+	font-weight: normal;
+	margin-bottom: 6px;
+	margin-top: 16px
+}
+
+h4 a{
+	color: #97b7d1;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+h4 a:hover{
+	color: #617f99 ;
+}
+
+h5{
+	color: #97b7d1;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+h6{
+	line-height: 75%;
+	font-size: 15px;
+	text-transform:uppercase;
+}
+p.small {
+    line-height: 70%;
+}
+
+p.big {
+    line-height: 200%;
+}
+
+hr{
+	background-color: #3d4958;
+	border: none;
+	height: 1px;
+}
+
+#container{
+	width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	padding: 266px 0px 0 0px;
+}
+
+#content_container{
+	    overflow: hidden;
+    position: relative;
+    background: #000000a3;
+    border: 6px solid #7b0000;
+    padding: 22px 0 58px 0;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.80);
+    -moz-box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.80);
+    -webkit-box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.80);
+}
+
+#blog_shadow{
+	height: 400px;
+	width: 934px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background: url() top no-repeat;
+	z-index: 2;
+}
+
+/*****************/
+/****** IMG ******/
+/*****************/
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("http://i.pics.rs/FCuBF.png");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*****************/
+/*** Navigation ****/
+/****************/
+
+#cs_logo{
+	position: absolute;
+	top: 100px;
+	left: 30px;
+}
+
+#cs_logo img{
+	width: 300px;
+}
+
+/*** BUTON ****/
+
+.button {
+    background-color: #810101; /* Green */
+    border: 0;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16x;
+}
+.button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: #d80000; /* Green */
+    color: white;
+}
+
+/*****************/
+footer.footer {
+    height: 35px;
+    width: 100%;
+    background-color: rgba(7, 53, 53, 0.8);
+}
+
+/***********/
+/*** Blog ***/
+/***********/
+
+#main_blog{
+	width: 528px;
+	margin: 12px 0 0 43px;
+	min-height: 780px;
+	float: left;
+	z-index: 10;
+	position: relative;
+	padding: 0 34px 0 0;
+	border-right:1px solid #851201;
+}
+#footer p{
+	color: #1889b1;
+	font-size: 10px;
+	line-height: 100%;
+}
+
+#footer img{
+	display: inline;
+	margin-right: 35px;
+}
+
+#footer p{
+	margin-top: 15px;
+}
+
+#post_container{
+	margin-top: 0px;
+}
+
+.inner_post{
+	padding: 2px 0px 18px 0px;
+	line-height: 100%;
+	overflow: hidden;
+}
+
+.inner_post p{
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+
+.inner_post img{
+	margin-bottom: 10px;
+}
+
+.inner_post ul{
+	list-style: none;
+}
+
+.inner_post li{	
+    margin-bottom: 20px;
+}
+
+.inner_post hr{
+	display: none;
+}
+
+/***********/
+/** Sidebar **/
+/***********/
+
+#sidebar{
+    width: 329px;
+    height: 100%;
+    float: right;
+    line-height: 145%;
+    margin: -856px -6px 0px 0px;
+    position: relative;
+    z-index: 10;
+    padding-top: 23px;
+}
+
+#sidebar h3{
+	margin: 0 0 8px 0px;
+}
+
+.sidebar_item{
+	padding: 2px 0px 0 0px;
+	position: relative;
+}
+
+.sidebar_container{
+	margin: 0 0 0 0;
+	padding-bottom: 25px;
+}
+
+.title_sidebar_monthly{
+	background: url(http://media.steampowered.com/apps/csgo/blog/images/sidebar_bg_hdr.png) repeat-y;
+	height: 60px;
+	width: 319px;
+	padding: 12px 0px 0px 0px;
+}
+
+.monthly{
+	color: #eee;
+	font-size: 30px;
+	font-weight: bold;
+	letter-spacing: .11em;
+	padding: 0px 0px 10px 0px;
+}
+
+/**********/
+/** Footer **/
+/**********/
+
+#footer{
+	height: 100px;
+	width: 615px;
+	margin: 0 auto 0 auto;
+	padding: 0px 0 0 0px;
+	position: relative;
+}
+
+#testing{
+	display:none;
+}

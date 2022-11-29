@@ -1,0 +1,1009 @@
+[22-Feb-2020 14:21:58 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-voice.php on line 86
+[22-Feb-2020 14:22:01 UTC] PHP Notice:  Undefined variable: ts_port_try_2 in /home/emaxrsmh/egame.e-max.rs/ts-info.php on line 42
+[22-Feb-2020 14:22:01 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[22-Feb-2020 14:22:04 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[22-Feb-2020 14:22:04 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[22-Feb-2020 14:22:04 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[22-Feb-2020 14:22:04 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[22-Feb-2020 14:22:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/emaxrsmh/egame.e-max.rs/gp-billing.php on line 77
+[22-Feb-2020 14:22:26 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[22-Feb-2020 14:22:37 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[22-Feb-2020 14:22:41 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[22-Feb-2020 14:22:41 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[22-Feb-2020 14:22:41 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[22-Feb-2020 14:22:41 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[22-Feb-2020 14:23:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/emaxrsmh/egame.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[22-Feb-2020 14:23:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/emaxrsmh/egame.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/egame.e-max.rs/jezik/index.php on line 2
+[22-Feb-2020 14:23:55 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-voice.php on line 86
+[22-Feb-2020 14:24:55 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[22-Feb-2020 14:25:06 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[22-Feb-2020 14:26:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/emaxrsmh/egame.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[22-Feb-2020 14:26:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/emaxrsmh/egame.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/egame.e-max.rs/jezik/index.php on line 2
+[22-Feb-2020 15:22:45 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[22-Feb-2020 15:22:48 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[22-Feb-2020 15:22:48 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[22-Feb-2020 15:22:48 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[22-Feb-2020 15:22:48 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[22-Feb-2020 15:25:43 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-voice.php on line 86
+[22-Feb-2020 15:25:48 UTC] PHP Notice:  Undefined variable: ts_port_try_2 in /home/emaxrsmh/egame.e-max.rs/ts-info.php on line 42
+[22-Feb-2020 15:25:48 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[22-Feb-2020 15:38:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/emaxrsmh/egame.e-max.rs/gp-billing.php on line 77
+[22-Feb-2020 15:38:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/emaxrsmh/egame.e-max.rs/gp-billing.php on line 77
+[22-Feb-2020 15:39:10 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[22-Feb-2020 15:39:11 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-voice.php on line 86
+[22-Feb-2020 15:39:14 UTC] PHP Notice:  Undefined variable: ts_port_try_2 in /home/emaxrsmh/egame.e-max.rs/ts-info.php on line 42
+[22-Feb-2020 15:39:14 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[22-Feb-2020 15:39:16 UTC] PHP Notice:  Undefined variable: ts_port_try_2 in /home/emaxrsmh/egame.e-max.rs/ts-info.php on line 42
+[22-Feb-2020 15:39:17 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[22-Feb-2020 15:49:15 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[22-Feb-2020 15:49:21 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[22-Feb-2020 15:49:21 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[22-Feb-2020 15:49:21 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[22-Feb-2020 15:49:21 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[22-Feb-2020 15:49:34 UTC] PHP Notice:  Undefined variable: mdb in /home/emaxrsmh/egame.e-max.rs/gp-boost.php on line 19
+[22-Feb-2020 15:49:34 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/emaxrsmh/egame.e-max.rs/gp-boost.php on line 19
+[22-Feb-2020 16:39:01 UTC] PHP Fatal error:  Call to undefined function br_statistika() in /home/emaxrsmh/egame.e-max.rs/index.php on line 228
+[22-Feb-2020 16:39:03 UTC] PHP Fatal error:  Call to undefined function br_statistika() in /home/emaxrsmh/egame.e-max.rs/index.php on line 228
+[22-Feb-2020 16:39:04 UTC] PHP Fatal error:  Call to undefined function br_statistika() in /home/emaxrsmh/egame.e-max.rs/index.php on line 228
+[22-Feb-2020 16:39:08 UTC] PHP Fatal error:  Call to undefined function br_statistika() in /home/emaxrsmh/egame.e-max.rs/index.php on line 228
+[22-Feb-2020 16:39:09 UTC] PHP Fatal error:  Call to undefined function br_statistika() in /home/emaxrsmh/egame.e-max.rs/index.php on line 228
+[22-Feb-2020 16:39:10 UTC] PHP Fatal error:  Call to undefined function br_statistika() in /home/emaxrsmh/egame.e-max.rs/index.php on line 228
+[22-Feb-2020 16:39:23 UTC] PHP Notice:  Undefined variable: klijenti in /home/emaxrsmh/egame.e-max.rs/index.php on line 228
+[22-Feb-2020 16:39:24 UTC] PHP Notice:  Undefined variable: klijenti in /home/emaxrsmh/egame.e-max.rs/index.php on line 228
+[22-Feb-2020 16:39:30 UTC] PHP Notice:  Undefined variable: clients in /home/emaxrsmh/egame.e-max.rs/index.php on line 228
+[22-Feb-2020 16:39:31 UTC] PHP Notice:  Undefined variable: clients in /home/emaxrsmh/egame.e-max.rs/index.php on line 228
+[23-Feb-2020 07:06:28 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[23-Feb-2020 08:46:00 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[23-Feb-2020 10:45:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/emaxrsmh/egame.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 10:45:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/emaxrsmh/egame.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/egame.e-max.rs/jezik/index.php on line 2
+[23-Feb-2020 11:01:47 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:01:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:01:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:01:47 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:01:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:01:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 367
+[23-Feb-2020 11:01:49 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:01:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:01:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:01:49 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:01:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:01:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 367
+[23-Feb-2020 11:02:46 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:02:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:02:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:02:46 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:02:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:02:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 367
+[23-Feb-2020 11:02:49 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:02:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:02:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:02:49 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:02:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:02:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 367
+[23-Feb-2020 11:02:58 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:02:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:02:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:02:58 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:02:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:02:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 367
+[23-Feb-2020 11:03:10 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:03:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:03:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:03:10 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:03:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:03:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 367
+[23-Feb-2020 11:05:08 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:05:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:05:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:05:08 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:05:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:05:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 367
+[23-Feb-2020 11:05:15 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:05:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:05:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:05:15 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:05:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:05:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 367
+[23-Feb-2020 11:05:25 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:05:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:05:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:05:25 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:05:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:05:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 367
+[23-Feb-2020 11:05:27 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:05:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:05:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 352
+[23-Feb-2020 11:05:27 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:05:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 365
+[23-Feb-2020 11:05:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 367
+[23-Feb-2020 11:05:45 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:05:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:05:45 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:06:11 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:06:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:06:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:06:11 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:06:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:06:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:07:52 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:07:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:07:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:07:52 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:07:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:07:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:07:54 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:07:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:07:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:07:54 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:07:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:07:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:07:56 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:07:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:07:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:07:56 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:07:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:07:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:08:04 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:08:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:08:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:08:04 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:08:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:08:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:11:13 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:13 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:11:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:11:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:11:16 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:16 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:11:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:11:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:11:17 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:17 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:11:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:11:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:11:18 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:18 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:11:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:11:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:11:24 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:11:24 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:11:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:11:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:12:18 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:12:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:12:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:12:18 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:12:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:12:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:12:20 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:12:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:12:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:12:20 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:12:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:12:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:13:37 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:13:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:13:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:13:37 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:13:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:13:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:15:20 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:15:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:15:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:15:20 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:15:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:15:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:16:33 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:16:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:16:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:16:33 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:16:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:16:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:18:22 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:18:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:18:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:18:22 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:18:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:18:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:36:52 UTC] PHP Warning:  include(q.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:36:52 UTC] PHP Warning:  include(q.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:36:52 UTC] PHP Warning:  include(): Failed opening 'q.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:36:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/new.php on line 4
+[23-Feb-2020 11:36:52 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 5
+[23-Feb-2020 11:36:52 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/emaxrsmh/egame.e-max.rs/new.php on line 5
+[23-Feb-2020 11:36:52 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 9
+[23-Feb-2020 11:36:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 9
+[23-Feb-2020 11:36:52 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 11:36:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 11:36:52 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 13
+[23-Feb-2020 11:36:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 13
+[23-Feb-2020 11:36:52 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:36:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:36:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:36:52 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 138
+[23-Feb-2020 11:36:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 138
+[23-Feb-2020 11:36:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 140
+[23-Feb-2020 11:37:05 UTC] PHP Notice:  Undefined index: email in /home/emaxrsmh/egame.e-max.rs/process.php on line 104
+[23-Feb-2020 11:37:05 UTC] PHP Notice:  Undefined index: pass in /home/emaxrsmh/egame.e-max.rs/process.php on line 105
+[23-Feb-2020 11:37:05 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:37:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:37:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:37:05 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:37:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:37:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:37:15 UTC] PHP Warning:  include(q.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:37:15 UTC] PHP Warning:  include(q.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:37:15 UTC] PHP Warning:  include(): Failed opening 'q.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:37:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/new.php on line 4
+[23-Feb-2020 11:37:15 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 5
+[23-Feb-2020 11:37:15 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/emaxrsmh/egame.e-max.rs/new.php on line 5
+[23-Feb-2020 11:37:15 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 9
+[23-Feb-2020 11:37:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 9
+[23-Feb-2020 11:37:15 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 11:37:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 11:37:15 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 13
+[23-Feb-2020 11:37:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 13
+[23-Feb-2020 11:37:15 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:37:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:37:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:37:15 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 138
+[23-Feb-2020 11:37:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 138
+[23-Feb-2020 11:37:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 140
+[23-Feb-2020 11:37:26 UTC] PHP Notice:  Undefined index: email in /home/emaxrsmh/egame.e-max.rs/process.php on line 104
+[23-Feb-2020 11:37:26 UTC] PHP Notice:  Undefined index: pass in /home/emaxrsmh/egame.e-max.rs/process.php on line 105
+[23-Feb-2020 11:37:26 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:37:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:37:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:37:26 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:37:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:37:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  include(q.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  include(q.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  include(): Failed opening 'q.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:37:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/new.php on line 4
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 5
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/emaxrsmh/egame.e-max.rs/new.php on line 5
+[23-Feb-2020 11:37:44 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 9
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 9
+[23-Feb-2020 11:37:44 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 11:37:44 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 13
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 13
+[23-Feb-2020 11:37:44 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:37:44 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 138
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 138
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 140
+[23-Feb-2020 11:37:44 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:37:44 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:37:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:37:46 UTC] PHP Warning:  include(q.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:37:46 UTC] PHP Warning:  include(q.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:37:46 UTC] PHP Warning:  include(): Failed opening 'q.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:37:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/new.php on line 4
+[23-Feb-2020 11:37:46 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 5
+[23-Feb-2020 11:37:46 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/emaxrsmh/egame.e-max.rs/new.php on line 5
+[23-Feb-2020 11:37:46 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 9
+[23-Feb-2020 11:37:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 9
+[23-Feb-2020 11:37:46 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 11:37:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 11:37:46 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 13
+[23-Feb-2020 11:37:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 13
+[23-Feb-2020 11:37:46 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:37:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:37:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:37:46 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 138
+[23-Feb-2020 11:37:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 138
+[23-Feb-2020 11:37:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 140
+[23-Feb-2020 11:40:15 UTC] PHP Warning:  include(q.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:40:15 UTC] PHP Warning:  include(q.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:40:15 UTC] PHP Warning:  include(): Failed opening 'q.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/emaxrsmh/egame.e-max.rs/new.php on line 3
+[23-Feb-2020 11:40:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/new.php on line 4
+[23-Feb-2020 11:40:15 UTC] PHP Warning:  include_once(connect.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/new.php on line 5
+[23-Feb-2020 11:40:15 UTC] PHP Warning:  include_once(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/emaxrsmh/egame.e-max.rs/new.php on line 5
+[23-Feb-2020 11:40:15 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 9
+[23-Feb-2020 11:40:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 9
+[23-Feb-2020 11:40:15 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 11:40:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 11:40:15 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 13
+[23-Feb-2020 11:40:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 13
+[23-Feb-2020 11:40:15 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:40:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:40:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 93
+[23-Feb-2020 11:40:15 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 138
+[23-Feb-2020 11:40:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 138
+[23-Feb-2020 11:40:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 140
+[23-Feb-2020 11:41:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/new.php on line 4
+[23-Feb-2020 11:41:23 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 11:41:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 11:41:23 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 11:41:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 11:41:23 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 11:41:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 11:41:23 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 11:41:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 11:41:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 11:41:23 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 11:41:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 11:41:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 141
+[23-Feb-2020 11:41:28 UTC] PHP Notice:  Undefined index: email in /home/emaxrsmh/egame.e-max.rs/process.php on line 104
+[23-Feb-2020 11:41:28 UTC] PHP Notice:  Undefined index: pass in /home/emaxrsmh/egame.e-max.rs/process.php on line 105
+[23-Feb-2020 11:41:29 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:41:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:41:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:41:29 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:41:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:41:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:41:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/new.php on line 4
+[23-Feb-2020 11:41:36 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 11:41:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 11:41:36 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 11:41:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 11:41:36 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 11:41:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 11:41:36 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 11:41:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 11:41:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 11:41:36 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 11:41:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 11:41:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 141
+[23-Feb-2020 11:42:59 UTC] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 5
+[23-Feb-2020 11:42:59 UTC] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 5
+[23-Feb-2020 11:42:59 UTC] PHP Fatal error:  require(): Failed opening required 'connect.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 5
+[23-Feb-2020 11:43:03 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:43:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:43:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:43:03 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:43:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:43:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:45:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 12:45:01 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/new.php on line 4
+[23-Feb-2020 12:45:01 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 12:45:01 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 12:45:01 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 12:45:01 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 12:45:01 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 12:45:01 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 12:45:01 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:01 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:01 Europe/Belgrade] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:01 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 12:45:01 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 12:45:01 Europe/Belgrade] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 141
+[23-Feb-2020 11:45:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 183
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 183
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 184
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 184
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 186
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 186
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 189
+[23-Feb-2020 11:45:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/new.php on line 4
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 12:45:08 Europe/Belgrade] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 141
+[23-Feb-2020 11:45:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 215
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 215
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 216
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 216
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 217
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 217
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 218
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 218
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 219
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 219
+[23-Feb-2020 11:45:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/new.php on line 4
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 12:45:19 Europe/Belgrade] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 141
+[23-Feb-2020 11:45:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 215
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 215
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 216
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 216
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 217
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 217
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 218
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 218
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 219
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 219
+[23-Feb-2020 11:45:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/new.php on line 4
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 12:45:32 Europe/Belgrade] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 141
+[23-Feb-2020 11:45:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 215
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 215
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 216
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 216
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 217
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 217
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 218
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 218
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 219
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 219
+[23-Feb-2020 11:45:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/new.php on line 4
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 12:45:48 Europe/Belgrade] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 141
+[23-Feb-2020 11:46:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 12:46:14 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/new.php on line 4
+[23-Feb-2020 12:46:14 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 12:46:14 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 12:46:14 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 12:46:14 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 12:46:14 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 12:46:14 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 12:46:14 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:46:14 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:46:14 Europe/Belgrade] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:46:14 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 12:46:14 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 12:46:14 Europe/Belgrade] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 141
+[23-Feb-2020 11:46:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 183
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 183
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 184
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 184
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 186
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 186
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/spoksy_process.php on line 189
+[23-Feb-2020 11:46:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/new.php on line 4
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 10
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 11
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 14
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 94
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 139
+[23-Feb-2020 12:46:19 Europe/Belgrade] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/new.php on line 141
+[23-Feb-2020 11:46:56 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:46:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:46:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:46:56 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:46:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:46:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 11:48:43 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:48:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:48:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 353
+[23-Feb-2020 11:48:43 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:48:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 366
+[23-Feb-2020 11:48:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 368
+[23-Feb-2020 12:02:45 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[23-Feb-2020 12:02:51 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[23-Feb-2020 12:02:54 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:02:54 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:02:54 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:02:54 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:03:15 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:03:15 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:03:15 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:03:15 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:03:29 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:03:29 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:03:29 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:03:29 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:03:31 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:03:31 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:03:31 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:03:31 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:05:48 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:05:48 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:05:48 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:05:48 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:06:30 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[23-Feb-2020 12:06:34 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:06:34 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:06:34 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:06:34 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:11:24 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:11:24 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:11:24 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:11:24 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:11:34 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:11:34 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:11:34 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:11:34 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:12:08 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:12:08 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:12:08 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:12:08 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:14:31 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:14:31 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:14:31 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:14:31 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:14:40 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:14:40 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:14:40 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:14:40 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:14:43 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:14:43 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:14:43 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:14:43 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:14:51 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:14:51 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:14:51 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:14:51 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:15:03 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:15:03 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:15:03 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:15:03 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:15:05 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:15:05 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:15:05 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:15:05 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:15:14 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:15:14 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:15:14 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:15:14 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:22:59 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[23-Feb-2020 12:23:04 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[23-Feb-2020 12:23:07 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:23:07 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:23:07 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:23:07 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 12:32:18 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:32:18 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 12:32:18 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 12:32:18 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 13:10:50 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[23-Feb-2020 13:17:37 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[23-Feb-2020 14:17:02 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[23-Feb-2020 14:17:46 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[23-Feb-2020 14:17:50 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 14:17:50 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 14:17:50 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 14:17:50 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 14:19:36 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 14:19:37 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 14:19:37 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 14:19:37 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 14:19:39 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 14:19:39 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 14:19:39 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 14:19:39 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 14:19:40 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 14:19:40 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 14:19:40 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 14:19:40 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 14:19:41 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 14:19:41 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 14:19:41 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 14:19:41 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 167
+[23-Feb-2020 14:19:53 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 14:19:53 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 14:19:53 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 14:19:53 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 14:20:02 UTC] PHP Notice:  Undefined variable: mdb in /home/emaxrsmh/egame.e-max.rs/gp-boost.php on line 19
+[23-Feb-2020 14:20:02 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/emaxrsmh/egame.e-max.rs/gp-boost.php on line 19
+[23-Feb-2020 14:20:09 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[23-Feb-2020 14:35:11 UTC] PHP Warning:  include(style/games.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/index.php on line 448
+[23-Feb-2020 14:35:11 UTC] PHP Warning:  include(style/games.php): failed to open stream: No such file or directory in /home/emaxrsmh/egame.e-max.rs/index.php on line 448
+[23-Feb-2020 14:35:11 UTC] PHP Warning:  include(): Failed opening 'style/games.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/emaxrsmh/egame.e-max.rs/index.php on line 448
+[23-Feb-2020 14:48:43 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 214
+[23-Feb-2020 14:48:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 214
+[23-Feb-2020 14:48:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 216
+[23-Feb-2020 14:49:05 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 214
+[23-Feb-2020 14:49:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 214
+[23-Feb-2020 14:49:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 216
+[23-Feb-2020 14:49:06 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 214
+[23-Feb-2020 14:49:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 214
+[23-Feb-2020 14:49:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 216
+[23-Feb-2020 14:49:09 UTC] PHP Notice:  Undefined variable: con in /home/emaxrsmh/egame.e-max.rs/index.php on line 214
+[23-Feb-2020 14:49:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 214
+[23-Feb-2020 14:49:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/emaxrsmh/egame.e-max.rs/index.php on line 216
+[23-Feb-2020 15:12:03 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-voice.php on line 86
+[23-Feb-2020 15:12:07 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[23-Feb-2020 15:12:13 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 15:12:13 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 15:12:13 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 15:12:13 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 15:18:30 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 86
+[23-Feb-2020 15:19:37 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 15:19:37 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 15:19:37 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 15:19:37 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 15:23:30 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 15:23:30 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 15:23:30 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 15:23:30 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 15:23:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/emaxrsmh/egame.e-max.rs/gp-billing.php on line 77
+[23-Feb-2020 15:26:31 UTC] PHP Notice:  Undefined variable: tiket_id in /home/emaxrsmh/egame.e-max.rs/billing_tiket.php on line 15
+[23-Feb-2020 15:26:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/emaxrsmh/egame.e-max.rs/gp-billing.php on line 77
+[23-Feb-2020 15:27:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/emaxrsmh/egame.e-max.rs/gp-billing.php on line 76
+[23-Feb-2020 15:27:14 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 15:27:20 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 15:27:20 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 15:27:20 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 15:27:20 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 15:27:24 UTC] PHP Warning:  file_get_contents(): ftp:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-admins.php on line 109
+[23-Feb-2020 15:27:24 UTC] PHP Warning:  file_get_contents(ftp://...@136.243.213.254:21/cstrike/addons/amxmodx/configs/users.ini): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-admins.php on line 109
+[23-Feb-2020 15:30:43 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 15:30:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/emaxrsmh/egame.e-max.rs/gp-billing.php on line 76
+[23-Feb-2020 15:31:19 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 15:31:26 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 15:31:26 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 15:31:26 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 15:31:26 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 15:31:33 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 15:31:33 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 15:31:33 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 15:31:33 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 15:31:48 UTC] PHP Warning:  file_get_contents(): ftp:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-admins.php on line 108
+[23-Feb-2020 15:31:48 UTC] PHP Warning:  file_get_contents(ftp://...@136.243.213.254:21/cstrike/addons/amxmodx/configs/users.ini): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-admins.php on line 108
+[23-Feb-2020 15:32:01 UTC] PHP Fatal error:  Call to undefined function ssh2_connect() in /home/emaxrsmh/egame.e-max.rs/gp-console.php on line 101
+[23-Feb-2020 15:47:56 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 15:48:02 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 15:48:02 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 15:48:14 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 15:48:14 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 15:48:42 UTC] PHP Notice:  Undefined index: ime in /home/emaxrsmh/egame.e-max.rs/process.php on line 2880
+[23-Feb-2020 15:48:42 UTC] PHP Notice:  Undefined index: prezime in /home/emaxrsmh/egame.e-max.rs/process.php on line 2881
+[23-Feb-2020 15:48:42 UTC] PHP Notice:  Undefined index: password in /home/emaxrsmh/egame.e-max.rs/process.php on line 2882
+[23-Feb-2020 15:48:42 UTC] PHP Notice:  Undefined index: avatar in /home/emaxrsmh/egame.e-max.rs/process.php on line 2883
+[23-Feb-2020 15:48:44 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 15:48:44 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 15:48:56 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 15:48:56 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 15:49:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/emaxrsmh/egame.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 15:49:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/emaxrsmh/egame.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/egame.e-max.rs/jezik/index.php on line 2
+[23-Feb-2020 15:49:28 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 15:49:28 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 15:49:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 15:49:35 UTC] PHP Notice:  Undefined variable: slika in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 75
+[23-Feb-2020 15:49:35 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 75
+[23-Feb-2020 15:49:35 UTC] PHP Notice:  Undefined variable: slika in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 76
+[23-Feb-2020 15:49:35 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 76
+[23-Feb-2020 15:49:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 15:49:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 15:49:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 15:49:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 15:49:36 UTC] PHP Notice:  Undefined variable: slika in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 75
+[23-Feb-2020 15:49:36 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 75
+[23-Feb-2020 15:49:36 UTC] PHP Notice:  Undefined variable: slika in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 76
+[23-Feb-2020 15:49:36 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 76
+[23-Feb-2020 15:49:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 15:49:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 15:49:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 15:49:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 15:49:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 15:49:53 UTC] PHP Notice:  Undefined variable: slika in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 75
+[23-Feb-2020 15:49:53 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 75
+[23-Feb-2020 15:49:53 UTC] PHP Notice:  Undefined variable: slika in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 76
+[23-Feb-2020 15:49:53 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 76
+[23-Feb-2020 15:49:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 15:49:53 UTC] PHP Notice:  Undefined variable: slika in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 75
+[23-Feb-2020 15:49:53 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 75
+[23-Feb-2020 15:49:53 UTC] PHP Notice:  Undefined variable: slika in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 76
+[23-Feb-2020 15:49:53 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/emaxrsmh/egame.e-max.rs/uplatnica.php on line 76
+[23-Feb-2020 15:49:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/egame.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 15:50:21 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 15:50:21 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 15:50:21 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 15:52:49 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 15:52:49 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 15:52:49 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 15:52:49 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 15:53:13 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 15:53:13 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 15:53:13 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 15:53:13 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 15:54:12 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 15:54:12 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/egame.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 15:54:12 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 15:54:12 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/egame.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 15:54:31 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 15:54:31 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 15:54:31 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 15:54:31 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/egame.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 15:58:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/emaxrsmh/demo.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/demo.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 15:58:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/emaxrsmh/demo.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/demo.e-max.rs/jezik/index.php on line 2
+[23-Feb-2020 15:59:07 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 15:59:08 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:00:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/emaxrsmh/demo.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/demo.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 16:00:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/emaxrsmh/demo.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/demo.e-max.rs/jezik/index.php on line 2
+[23-Feb-2020 16:01:12 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:01:12 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:01:28 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:01:28 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:01:30 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:01:30 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:02:37 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:02:37 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:03:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/emaxrsmh/demo.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/demo.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 16:03:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/emaxrsmh/demo.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/demo.e-max.rs/jezik/index.php on line 2
+[23-Feb-2020 16:03:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/emaxrsmh/demo.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/demo.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 16:03:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/emaxrsmh/demo.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/demo.e-max.rs/jezik/index.php on line 2
+[23-Feb-2020 16:03:26 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:03:26 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:03:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/emaxrsmh/demo.e-max.rs/gp-billing.php on line 76
+[23-Feb-2020 16:07:51 UTC] PHP Notice:  Constant _lgsl already defined in /home/emaxrsmh/demo.e-max.rs/inc/libs/lgsl/lgsl_class.php on line 13
+[23-Feb-2020 16:07:51 UTC] PHP Notice:  Constant _lgsl already defined in /home/emaxrsmh/demo.e-max.rs/inc/libs/lgsl/lgsl_class.php on line 13
+[23-Feb-2020 16:07:52 UTC] PHP Notice:  Use of undefined constant CRYPT_KEY - assumed 'CRYPT_KEY' in /home/emaxrsmh/demo.e-max.rs/naruci_process.php on line 243
+[23-Feb-2020 16:07:52 UTC] PHP Notice:  Undefined variable: jezik in /home/emaxrsmh/demo.e-max.rs/includes/func.server.inc.php on line 73
+[23-Feb-2020 16:07:56 UTC] PHP Notice:  Constant _lgsl already defined in /home/emaxrsmh/demo.e-max.rs/inc/libs/lgsl/lgsl_class.php on line 13
+[23-Feb-2020 16:07:57 UTC] PHP Notice:  Constant _lgsl already defined in /home/emaxrsmh/demo.e-max.rs/inc/libs/lgsl/lgsl_class.php on line 13
+[23-Feb-2020 16:07:57 UTC] PHP Notice:  Use of undefined constant CRYPT_KEY - assumed 'CRYPT_KEY' in /home/emaxrsmh/demo.e-max.rs/naruci_process.php on line 243
+[23-Feb-2020 16:07:57 UTC] PHP Notice:  Undefined variable: jezik in /home/emaxrsmh/demo.e-max.rs/includes/func.server.inc.php on line 73
+[23-Feb-2020 16:08:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/emaxrsmh/demo.e-max.rs/gp-billing.php on line 76
+[23-Feb-2020 16:08:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/demo.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 16:08:02 UTC] PHP Notice:  Undefined variable: slika in /home/emaxrsmh/demo.e-max.rs/uplatnica.php on line 75
+[23-Feb-2020 16:08:02 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home/emaxrsmh/demo.e-max.rs/uplatnica.php on line 75
+[23-Feb-2020 16:08:02 UTC] PHP Notice:  Undefined variable: slika in /home/emaxrsmh/demo.e-max.rs/uplatnica.php on line 76
+[23-Feb-2020 16:08:02 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/emaxrsmh/demo.e-max.rs/uplatnica.php on line 76
+[23-Feb-2020 16:08:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/demo.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 16:08:02 UTC] PHP Notice:  Undefined variable: slika in /home/emaxrsmh/demo.e-max.rs/uplatnica.php on line 75
+[23-Feb-2020 16:08:02 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home/emaxrsmh/demo.e-max.rs/uplatnica.php on line 75
+[23-Feb-2020 16:08:02 UTC] PHP Notice:  Undefined variable: slika in /home/emaxrsmh/demo.e-max.rs/uplatnica.php on line 76
+[23-Feb-2020 16:08:02 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/emaxrsmh/demo.e-max.rs/uplatnica.php on line 76
+[23-Feb-2020 16:08:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/demo.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 16:08:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/demo.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 16:08:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/demo.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 16:08:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/emaxrsmh/demo.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 16:08:21 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:08:22 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:08:22 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:08:22 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:09:40 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:09:40 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:10:14 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:10:14 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:10:38 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:10:38 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:10:38 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:10:38 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:10:40 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:10:40 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:10:58 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:10:58 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:10:58 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:10:58 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:11:00 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:11:00 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:11:00 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:11:00 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:11:03 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 16:11:03 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 16:11:03 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 16:11:03 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 16:11:54 UTC] PHP Notice:  Undefined variable: igras in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 47
+[23-Feb-2020 16:12:02 UTC] PHP Notice:  Undefined variable: igras in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 47
+[23-Feb-2020 16:12:04 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 16:12:04 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 16:12:04 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 16:12:04 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 16:12:17 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 16:12:17 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 16:12:17 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 16:12:17 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 16:12:21 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 16:12:22 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 16:12:22 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 16:12:22 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 16:12:44 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 16:12:44 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 16:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 16:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 16:13:52 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:13:52 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:13:52 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:13:52 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:14:35 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:14:35 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:14:35 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:14:35 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:14:35 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:14:40 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 16:14:40 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 16:14:40 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 16:14:40 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 16:14:53 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:14:53 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:14:53 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:14:53 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:14:53 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:15:02 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:02 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:02 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:02 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:02 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:15:02 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:15:11 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:11 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:11 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:11 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:11 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:15:11 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:15:21 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:21 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:21 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:21 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:21 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:15:21 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:15:26 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:26 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:26 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:26 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:26 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:15:26 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:15:41 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:42 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:42 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:42 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:15:42 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:15:53 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:53 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:53 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:15:53 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:15:53 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:16:12 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:16:12 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:16:12 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:16:12 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:16:12 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:17:05 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:17:05 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:17:05 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:17:05 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:17:05 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:17:14 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:17:14 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:17:14 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:17:14 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:17:14 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:17:42 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:17:42 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:17:42 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:17:42 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:17:42 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:19:52 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:19:52 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:19:52 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:19:52 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:19:52 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:20:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/emaxrsmh/demo.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/demo.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 16:20:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/emaxrsmh/demo.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/demo.e-max.rs/jezik/index.php on line 2
+[23-Feb-2020 16:20:38 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:20:38 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:20:58 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:20:59 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:20:59 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:30:53 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:30:53 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 16:30:56 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:30:56 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:30:56 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 16:30:56 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 52
+[23-Feb-2020 16:30:56 UTC] PHP Notice:  Undefined variable: server in /home/emaxrsmh/demo.e-max.rs/style/pin_provera.php on line 90
+[23-Feb-2020 18:45:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/emaxrsmh/demo.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/demo.e-max.rs/connect_db.php on line 6
+[23-Feb-2020 18:45:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/emaxrsmh/demo.e-max.rs/gp-korisnik.php:1) in /home/emaxrsmh/demo.e-max.rs/jezik/index.php on line 2
+[23-Feb-2020 18:45:14 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 18:45:14 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 18:45:14 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 18:45:19 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 18:45:19 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 18:45:19 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 18:45:19 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 18:45:29 UTC] PHP Notice:  Undefined variable: mdb in /home/emaxrsmh/demo.e-max.rs/gp-boost.php on line 19
+[23-Feb-2020 18:45:29 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/emaxrsmh/demo.e-max.rs/gp-boost.php on line 19
+[23-Feb-2020 18:45:31 UTC] PHP Fatal error:  Call to undefined function ssh2_connect() in /home/emaxrsmh/demo.e-max.rs/gp-console.php on line 101
+[23-Feb-2020 18:45:48 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 18:45:48 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 18:45:48 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 19:42:29 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 19:42:29 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 19:42:29 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 21:02:54 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 21:02:54 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 21:02:54 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 21:02:58 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 21:02:58 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 21:02:58 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 21:02:58 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 21:03:07 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 21:03:07 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 21:03:07 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 21:03:10 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 21:03:10 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 21:03:10 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 21:03:10 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 21:08:46 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 21:08:46 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/136.243.213.254): failed to open stream: no suitable wrapper could be found in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 164
+[23-Feb-2020 21:08:46 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 165
+[23-Feb-2020 21:08:46 UTC] PHP Notice:  Trying to get property of non-object in /home/emaxrsmh/demo.e-max.rs/gp-info.php on line 166
+[23-Feb-2020 22:01:27 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 22:01:27 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 22:01:27 UTC] PHP Notice:  Undefined offset: 1 in /home/emaxrsmh/demo.e-max.rs/gp-servers.php on line 85
+[23-Feb-2020 22:09:40 UTC] PHP Notice:  Undefined index:  Pocetna in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 7
+[23-Feb-2020 22:09:40 UTC] PHP Notice:  Undefined index:  Game Panel in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 9
+[23-Feb-2020 22:09:40 UTC] PHP Notice:  Undefined index:  Korisnicki Panel in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 11
+[23-Feb-2020 22:11:06 UTC] PHP Notice:  Undefined index:  Pocetna in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 7
+[23-Feb-2020 22:11:11 UTC] PHP Notice:  Undefined index: Poc etna in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 7
+[23-Feb-2020 22:12:10 UTC] PHP Notice:  Undefined index: CS-Tracker in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 19
+[23-Feb-2020 22:13:00 UTC] PHP Notice:  Undefined index:  Pocetna in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 7
+[23-Feb-2020 22:13:00 UTC] PHP Notice:  Undefined index:  Game Panel in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 9
+[23-Feb-2020 22:13:00 UTC] PHP Notice:  Undefined index:  Korisnicki Panel in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 11
+[23-Feb-2020 22:13:00 UTC] PHP Notice:  Undefined index:  Naruci in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 13
+[23-Feb-2020 22:13:00 UTC] PHP Notice:  Undefined index:  Cenovnik in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 15
+[23-Feb-2020 22:13:00 UTC] PHP Notice:  Undefined index:  Kontakt in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 17
+[23-Feb-2020 22:14:25 UTC] PHP Notice:  Undefined index:  Pocetna in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 7
+[23-Feb-2020 22:14:26 UTC] PHP Notice:  Undefined index:  Game Panel in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 9
+[23-Feb-2020 22:14:26 UTC] PHP Notice:  Undefined index:  Korisnicki Panel in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 11
+[23-Feb-2020 22:14:26 UTC] PHP Notice:  Undefined index:  Naruci in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 13
+[23-Feb-2020 22:14:26 UTC] PHP Notice:  Undefined index:  Cenovnik in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 15
+[23-Feb-2020 22:14:26 UTC] PHP Notice:  Undefined index:  Kontakt in /home/emaxrsmh/demo.e-max.rs/style/navigacija.php on line 17
+[23-Feb-2020 22:14:57 UTC] PHP Notice:  Undefined index: Naruci in /home/emaxrsmh/demo.e-max.rs/style/game.php on line 15
+[23-Feb-2020 22:14:57 UTC] PHP Notice:  Undefined index: Naruci in /home/emaxrsmh/demo.e-max.rs/style/game.php on line 30
+[23-Feb-2020 22:14:57 UTC] PHP Notice:  Undefined index: Naruci in /home/emaxrsmh/demo.e-max.rs/style/game.php on line 45
+[23-Feb-2020 22:14:57 UTC] PHP Notice:  Undefined index: Naruci in /home/emaxrsmh/demo.e-max.rs/style/game.php on line 60
+[23-Feb-2020 22:14:57 UTC] PHP Notice:  Undefined index: Naruci in /home/emaxrsmh/demo.e-max.rs/style/game.php on line 75
+[23-Feb-2020 22:14:57 UTC] PHP Notice:  Undefined index: Naruci in /home/emaxrsmh/demo.e-max.rs/style/game.php on line 90
+[23-Feb-2020 22:15:10 UTC] PHP Notice:  Undefined index: Naruci in /home/emaxrsmh/demo.e-max.rs/style/game.php on line 15
+[23-Feb-2020 22:15:10 UTC] PHP Notice:  Undefined index: Naruci in /home/emaxrsmh/demo.e-max.rs/style/game.php on line 30
+[23-Feb-2020 22:15:10 UTC] PHP Notice:  Undefined index: Naruci in /home/emaxrsmh/demo.e-max.rs/style/game.php on line 45
+[23-Feb-2020 22:15:10 UTC] PHP Notice:  Undefined index: Naruci in /home/emaxrsmh/demo.e-max.rs/style/game.php on line 60
+[23-Feb-2020 22:15:10 UTC] PHP Notice:  Undefined index: Naruci in /home/emaxrsmh/demo.e-max.rs/style/game.php on line 75
+[23-Feb-2020 22:15:10 UTC] PHP Notice:  Undefined index: Naruci in /home/emaxrsmh/demo.e-max.rs/style/game.php on line 90
